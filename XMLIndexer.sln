@@ -1,23 +1,18 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLIndexer", "XMLIndexer\XMLIndexer.csproj", "{A6FD9C6A-67A2-4B3E-86DF-8EB65A245BE4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creator", "Creator\Creator.csproj", "{52566DCE-3A2A-4396-931B-6F9ECB96A414}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{938A49C5-5D94-4717-9DBA-FD44DCE9DDBB}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 3
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = http://tfs.tellus.vannelle.local:8080/tfs/sellus
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = Creator\\Creator.csproj
-		SccProjectName1 = Creator
-		SccLocalPath1 = Creator
-		SccProjectUniqueName2 = XMLIndexer\\XMLIndexer.csproj
-		SccProjectName2 = XMLIndexer
-		SccLocalPath2 = XMLIndexer
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
 		Release|x86 = Release|x86
